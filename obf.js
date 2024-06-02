@@ -1,10 +1,3 @@
-// This is just a sample script. Paste your real code (javascript or HTML) here.
-if ('this_is' == /an_example/) {
-    of_beautifier();
-} else {
-    var a = b ? (c % d) : e[f];
-}
-
 function _0x47fe(_0x51617c, _0x4bb4d3) {
     var _0x11b6c0 = _0x11b6();
     return _0x47fe = function (_0x47fec6, _0x206445) {
