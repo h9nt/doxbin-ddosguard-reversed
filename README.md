@@ -4,5 +4,3 @@
 ` I've decided to delete the source code if you're interested checkout my telegram `
 
 <hr>
-
-For Questions [<a href="https://t.me/Fhivo">contact me here] 
